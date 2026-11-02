@@ -1,5 +1,5 @@
 -- RSVP aberto: sem convite individual e sem limite de acompanhantes.
-alter table public.guests alter column invitation_code drop not null;
+alter table public.guests drop column if exists invitation_code;
 alter table public.guests drop column if exists max_companions;
 alter table public.guests drop column if exists companions_count;
 
