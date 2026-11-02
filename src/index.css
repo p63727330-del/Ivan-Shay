@@ -13,3 +13,5 @@
 @media(max-width:700px){.rsvp-form{width:100%}.companion-head{align-items:flex-start;flex-direction:column}}
 
 .pix-payment{display:flex;flex-direction:column;gap:13px;margin:22px 0}.pix-payment>label{font-size:12px;color:#81776b}.pix-payment input{border:1px solid #ded7ca;padding:13px;background:#fffdf9;color:#51463b;font:inherit}.pix-recipient{font-size:13px;color:#81776b;margin:0}.pix-key{padding:14px;background:#eeece3;color:#6f7964;font-size:12px;line-height:1.8;margin:0}.pix-key strong{font-size:20px;letter-spacing:.06em;color:#51463b}.pix-payment .btn{justify-content:center}.pix-payment small{font-size:11px;line-height:1.7;color:#81776b}
+
+.pix-qr{display:flex;align-items:center;flex-direction:column;gap:8px;padding:18px;background:#fff;border:1px solid #e8e1d5}.pix-qr svg{max-width:100%;height:auto}.pix-qr small{font-size:11px;color:#81776b}.pix-actions{display:flex;flex-direction:column;gap:10px}.pix-copy{border:0;background:transparent;color:#59664f;text-decoration:underline;padding:8px;font-size:12px;cursor:pointer}
