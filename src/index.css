@@ -11,3 +11,5 @@
 .companion-row button{border:1px solid #ded7ca;background:#fffdf9;color:#766d60;padding:0 12px;font-size:19px;cursor:pointer}
 .rsvp-form button:disabled{opacity:.6;cursor:wait}
 @media(max-width:700px){.rsvp-form{width:100%}.companion-head{align-items:flex-start;flex-direction:column}}
+
+.pix-payment{display:flex;flex-direction:column;gap:13px;margin:22px 0}.pix-payment>label{font-size:12px;color:#81776b}.pix-payment input{border:1px solid #ded7ca;padding:13px;background:#fffdf9;color:#51463b;font:inherit}.pix-recipient{font-size:13px;color:#81776b;margin:0}.pix-key{padding:14px;background:#eeece3;color:#6f7964;font-size:12px;line-height:1.8;margin:0}.pix-key strong{font-size:20px;letter-spacing:.06em;color:#51463b}.pix-payment .btn{justify-content:center}.pix-payment small{font-size:11px;line-height:1.7;color:#81776b}
