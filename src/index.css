@@ -34,3 +34,4 @@
 
 @media(max-width:600px){.quote{font-size:16px;line-height:1.65;max-width:100%;padding:0 8px}}
 @media(max-width:600px){.countdown{gap:7px;margin-top:34px}.countdown>div{min-width:0;flex:1;max-width:76px;padding:12px 5px 10px}.countdown b{font-size:30px}.countdown small{font-size:8px;letter-spacing:.12em}}
+.intro .eyebrow{color:#A9824D;text-shadow:0 1px 2px #5A403322}
